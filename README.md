@@ -7,21 +7,21 @@
 The objective of the game "Get the Fruits" is to control a main character to collect all the fruits that appear on the screen. The character is controlled by the keyboard and the fruit moves downwards over time. The game has three scripts: one for the main character, one for the fruit and one for the point count.In addition, there is a custom block that adds a point to the point count when the character touches the fruit.
 <br>
 <br>
-<a href="https://aragonxpd154.github.io/landing-page-atari-vcs-2600/">
-<img alt="Acessar o projeto" src="https://aragonxpd154.github.io/get-the-fruit-education/"/>
+<a href="https://aragonxpd154.github.io/get-the-fruit-education/">
+<img alt="Acessar o projeto" src="https://raw.githubusercontent.com/aragonxpd154/get-the-fruit-education/main/Img/acessar%20o%20projeto_bot%C3%A3o.png"/>
 </a>
 
 </h4>
 
 <p align="center">
-<img alt="Github top language" src="https://img.shields.io/github/languages/top/aragonxpd154/landing-page-atari-vcs-2600">
-<img alt="Github laguage count" src="https://img.shields.io/github/languages/count/aragonxpd154/landing-page-atari-vcs-2600">
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/aragonxpd154/landing-page-atari-vcs-2600">
-<img alt="Github last commit" src="https://img.shields.io/github/last-commit/aragonxpd154/landing-page-atari-vcs-2600">
-<a href="https://github.com/aragonxpd154/landing-page-atari-vcs-2600/issues">
-<img alt="Repository issues" src="https://img.shields.io/github/issues/aragonxpd154/landing-page-atari-vcs-2600"> 
+<img alt="Github top language" src="https://img.shields.io/github/languages/top/aragonxpd154/get-the-fruit-education">
+<img alt="Github laguage count" src="https://img.shields.io/github/languages/count/aragonxpd154/get-the-fruit-education">
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/aragonxpd154/get-the-fruit-education">
+<img alt="Github last commit" src="https://img.shields.io/github/last-commit/aragonxpd154/get-the-fruit-education">
+<a href="https://github.com/aragonxpd154/get-the-fruit-education/issues">
+<img alt="Repository issues" src="https://img.shields.io/github/issues/aragonxpd154/get-the-fruit-education"> 
 </a>
-<img alt="Github license" src="https://img.shields.io/github/license/aragonxpd154/landing-page-atari-vcs-2600">
+<img alt="Github license" src="https://img.shields.io/github/license/aragonxpd154/get-the-fruit-education">
 </a>
 </p>
 
